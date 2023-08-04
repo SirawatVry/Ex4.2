@@ -1,4 +1,4 @@
-#include <iostream>
+ #include <iostream>
 #include <string>
 using namespace std;
 int main()
@@ -21,6 +21,6 @@ if (Ch3=='A') k3 = 10 ;
 else if (Ch3=='B') k3 = 20;
 else if (Ch3=='C') k3 = 30;
 cout << Ch1 << "=" << k1 << "," << Ch2 << "=" << k2 << "," << Ch3 << "=" << k3 << endl;
-cout << Ch1 << " + "<< Ch2 << " + "<< Ch3 << " = " << k1 << " + " << k2 << " + " << k3 << " = " << k1 + k2 + k3 <<endl;
+cout << Ch1 << " + "<< Ch2 << " + "<< Ch3 << " = " << k1 << " + " << k2 << " + " << k3 << " = " << k1 + k2 + k3 << endl;
 return(0);
 }
